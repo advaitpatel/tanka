@@ -2,6 +2,20 @@
 
 For releases from v0.24.0 to v0.28.3, you can find the changelog in the GitHub releases: https://github.com/grafana/tanka/releases
 
+## [0.39.3](https://github.com/grafana/tanka/compare/v0.39.2...v0.39.3) (2026-09-22)
+
+
+### 🐛 Bug Fixes
+
+* **renovate:** stop Renovate bumping engine-pinned otel deps in dagger/go.mod ([#2277](https://github.com/grafana/tanka/issues/2277)) ([25e23f4](https://github.com/grafana/tanka/commit/25e23f4d1785b88030f0cfa69e109c486112d676))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update alpine docker tag to v3.24.2 ([#2273](https://github.com/grafana/tanka/issues/2273)) ([e85f3ba](https://github.com/grafana/tanka/commit/e85f3bac437030caa845a8f1ad2427b5b58b7360))
+* **deps:** update dependency @types/node to v24.13.6 ([#2275](https://github.com/grafana/tanka/issues/2275)) ([91f596c](https://github.com/grafana/tanka/commit/91f596c58c528fde20add3ad099f757d488395b5))
+* **deps:** update dependency pnpm to v12.5.1 ([#2272](https://github.com/grafana/tanka/issues/2272)) ([e531cc1](https://github.com/grafana/tanka/commit/e531cc1bd9a294f5abf8396f41f4d5e0c4723e65))
+
 ## [0.39.2](https://github.com/grafana/tanka/compare/v0.39.1...v0.39.2) (2026-09-21)
 
 
